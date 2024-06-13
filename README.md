@@ -1,4 +1,6 @@
-[![CloudCuddler AWS Blog](https://cloudcuddler.com/wp-content/uploads/2023/12/logo-no-background.png | width=100)](https://www.cloudcuddler.com)
+<img src="https://cloudcuddler.com/wp-content/uploads/2023/12/logo-no-background.png" width="100" alt="CloudCuddler AWS Blog"> 
+<br>
+<br>
 
 # infracost-terraform
 Sample files to demonstrate infracost
